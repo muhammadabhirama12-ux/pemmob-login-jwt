@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719687504836",
+    "project_id": "mobile-auth-notif-bb559",
+    "storage_bucket": "mobile-auth-notif-bb559.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719687504836:android:3eb3cc7dc1097f751b8a91",
+        "android_client_info": {
+          "package_name": "com.hanafi.mobileauthnotif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGW3fOdIOFek9EcX4_U1jjzbZoA0BiWEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
