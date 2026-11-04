@@ -11,7 +11,7 @@
       "icon": "./assets/expo.icon"
     },
     "android": {
-      "package": "com.hanafi.mobileauthnotif",
+      "package": "com.abhirama.mobileauthnotif",
       "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
@@ -60,6 +60,6 @@
         "projectId": "a72d6b64-bdb3-4e0e-89ab-b03ca01adc45"
       }
     },
-    "owner": "hanafimuhammad02"
+    "owner": "abhirama02"
   }
 }
